@@ -1,7 +1,7 @@
 # SparseNeRFacto
 # Copyrights
 - Copyright 2022 the Regents of the University of California, Nerfstudio Team and contributors. All rights reserved.
-Modified by [Your Name/Organization], 2024
+Modified by Soongsil University, SparseNerfacto Team, 2024
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
